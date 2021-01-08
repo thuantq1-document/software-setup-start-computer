@@ -7,3 +7,8 @@
 - Skype
 - Vscode
 - Chrome
+
+
+# Install tools from Windoow
+
+- telnet
