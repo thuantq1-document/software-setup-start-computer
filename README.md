@@ -7,7 +7,7 @@
 - Skype
 - Vscode
 - Chrome
-
+- Lightshot
 
 # Install tools from Windoow
 
