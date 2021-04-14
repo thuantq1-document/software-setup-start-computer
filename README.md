@@ -9,6 +9,6 @@
 - Chrome
 - Lightshot
 
-# Install tools from Windoow
+# Install tools from Window
 
 - telnet
