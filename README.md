@@ -8,6 +8,8 @@
 - Vscode
 - Chrome
 - Lightshot
+- Postman
+
 
 # Install tools from Window
 
