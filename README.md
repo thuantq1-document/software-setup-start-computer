@@ -9,6 +9,7 @@
 - Chrome
 - Lightshot
 - Postman
+- Aws cli
 
 
 # Install tools from Window
