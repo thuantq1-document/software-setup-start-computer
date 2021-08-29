@@ -4,6 +4,8 @@
 - Docker
 - Notepad++
 - Nvm
+- 7Zip
+- Office365
 - Skype
 - Vscode
 - Chrome
